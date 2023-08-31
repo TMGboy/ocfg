@@ -1,15 +1,15 @@
-00:15}Unión Magdalena x América de Cali|https://v3.sportsonline.sx/channels/hd/hd9.php
-00:15}Unión Magdalena x América de Cali|https://v3.sportsonline.sx/channels/hd/hd2.php
-00:15}Unión Magdalena x América de Cali|https://v3.sportsonline.sx/channels/hd/hd4.php
-00:30}Inter Miami x Nashville SC|https://v3.sportsonline.sx/channels/hd/hd1.php
-00:30}Toronto FC x Philadelphia Union|https://v3.sportsonline.sx/channels/hd/hd2.php
-01:30}Racing Club x Boca Juniors|https://v3.sportsonline.sx/channels/hd/hd5.php
-01:30}Racing Club x Boca Juniors|https://v3.sportsonline.sx/channels/hd/hd6.php
-01:30}Racing Club x Boca Juniors|https://v3.sportsonline.sx/channels/pt/sporttv2.php 
-01:30}Palmeiras x Deportivo Pereira|https://v3.sportsonline.sx/channels/bra/br3.php
-01:30}Palmeiras x Deportivo Pereira|https://v3.sportsonline.sx/channels/hd/hd10.php
-01:30}Palmeiras x Deportivo Pereira|https://v3.sportsonline.sx/channels/pt/sporttv1.php 
-02:06}Querétaro x Atlas|https://v3.sportsonline.sx/channels/hd/hd11.php
-02:30}Rionegro Águilas x Atlético Nacional|https://v3.sportsonline.sx/channels/hd/hd9.php
-03:30}Portland Timbers x Real Salt Lake|https://v3.sportsonline.sx/channels/hd/hd2.php
-04:00}Tigres UANL x Santos Laguna|https://v3.sportsonline.sx/channels/hd/hd11.php
+00:15}Unión Magdalena x América de Cali{https://v3.sportsonline.sx/channels/hd/hd9.php
+00:15}Unión Magdalena x América de Cali{https://v3.sportsonline.sx/channels/hd/hd2.php
+00:15}Unión Magdalena x América de Cali{https://v3.sportsonline.sx/channels/hd/hd4.php
+00:30}Inter Miami x Nashville SC{https://v3.sportsonline.sx/channels/hd/hd1.php
+00:30}Toronto FC x Philadelphia Union{https://v3.sportsonline.sx/channels/hd/hd2.php
+01:30}Racing Club x Boca Juniors{https://v3.sportsonline.sx/channels/hd/hd5.php
+01:30}Racing Club x Boca Juniors{https://v3.sportsonline.sx/channels/hd/hd6.php
+01:30}Racing Club x Boca Juniors{https://v3.sportsonline.sx/channels/pt/sporttv2.php 
+01:30}Palmeiras x Deportivo Pereira{https://v3.sportsonline.sx/channels/bra/br3.php
+01:30}Palmeiras x Deportivo Pereira{https://v3.sportsonline.sx/channels/hd/hd10.php
+01:30}Palmeiras x Deportivo Pereira{https://v3.sportsonline.sx/channels/pt/sporttv1.php 
+02:06}Querétaro x Atlas{https://v3.sportsonline.sx/channels/hd/hd11.php
+02:30}Rionegro Águilas x Atlético Nacional{https://v3.sportsonline.sx/channels/hd/hd9.php
+03:30}Portland Timbers x Real Salt Lake{https://v3.sportsonline.sx/channels/hd/hd2.php
+04:00}Tigres UANL x Santos Laguna{https://v3.sportsonline.sx/channels/hd/hd11.php
