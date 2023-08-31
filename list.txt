@@ -1,15 +1,34 @@
-00:15}Unión Magdalena x América de Cali|https://v3.sportsonline.sx/channels/hd/hd9.php
-00:15}Unión Magdalena x América de Cali|https://v3.sportsonline.sx/channels/hd/hd2.php
-00:15}Unión Magdalena x América de Cali|https://v3.sportsonline.sx/channels/hd/hd4.php
-00:30}Inter Miami x Nashville SC|https://v3.sportsonline.sx/channels/hd/hd1.php
-00:30}Toronto FC x Philadelphia Union|https://v3.sportsonline.sx/channels/hd/hd2.php
-01:30}Racing Club x Boca Juniors|https://v3.sportsonline.sx/channels/hd/hd5.php
-01:30}Racing Club x Boca Juniors|https://v3.sportsonline.sx/channels/hd/hd6.php
-01:30}Racing Club x Boca Juniors|https://v3.sportsonline.sx/channels/pt/sporttv2.php 
-01:30}Palmeiras x Deportivo Pereira|https://v3.sportsonline.sx/channels/bra/br3.php
-01:30}Palmeiras x Deportivo Pereira|https://v3.sportsonline.sx/channels/hd/hd10.php
-01:30}Palmeiras x Deportivo Pereira|https://v3.sportsonline.sx/channels/pt/sporttv1.php 
-02:06}Querétaro x Atlas|https://v3.sportsonline.sx/channels/hd/hd11.php
-02:30}Rionegro Águilas x Atlético Nacional|https://v3.sportsonline.sx/channels/hd/hd9.php
-03:30}Portland Timbers x Real Salt Lake|https://v3.sportsonline.sx/channels/hd/hd2.php
-04:00}Tigres UANL x Santos Laguna|https://v3.sportsonline.sx/channels/hd/hd11.php
+12:30}DP World Tour: Omega European Masters - D1 | https://v3.sportsonline.sx/channels/pt/sporttv3.php 
+15:00}Ceahlăul Piatra Neamţ x Universitatea Cluj | https://v3.sportsonline.sx/channels/hd/hd11.php
+17:00}UEFA Champions League Draw | https://v3.sportsonline.sx/channels/hd/hd1.php
+17:00}UEFA Champions League Draw | https://v3.sportsonline.sx/channels/hd/hd6.php
+17:00}UEFA Champions League Draw | https://v3.sportsonline.sx/channels/bra/br1.php
+17:00}Bodø / Glimt x Sepsi | https://v3.sportsonline.sx/channels/hd/hd11.php
+17:30}Atlético Madrid W x Liverpool W | https://v3.sportsonline.sx/channels/pt/sporttv1.php 
+18:00}Twente x Fenerbahçe | https://v3.sportsonline.sx/channels/hd/hd3.php
+18:00}Brann x AZ | https://v3.sportsonline.sx/channels/hd/hd4.php
+18:30}PAOK x Hearts | https://v3.sportsonline.sx/channels/hd/hd2.php
+19:00}Ajax x Ludogorets | https://v3.sportsonline.sx/channels/hd/hd5.php
+19:00}Fiorentina x Rapid Wien | https://v3.sportsonline.sx/channels/hd/hd7.php
+19:00}Beşiktaş x Dynamo Kyiv | https://v3.sportsonline.sx/channels/hd/hd8.php
+19:00}Diamond League: Zurich | https://v3.sportsonline.sx/channels/pt/sporttv3.php 
+19:15}Rijeka x Lille | https://v3.sportsonline.sx/channels/hd/hd9.php
+19:30}Eintracht Frankfurt x Levski Sofia | https://v3.sportsonline.sx/channels/hd/hd10.php
+19:30}Club Brugge x Osasuna | https://v3.sportsonline.sx/channels/hd/hd6.php
+19:45}Aberdeen x Häcken | https://v3.sportsonline.sx/channels/hd/hd11.php
+20:00}Aston Villa x Hibernian | https://v3.sportsonline.sx/channels/hd/hd1.php
+20:00}Zrinjski x LASK Linz | https://v3.sportsonline.sx/channels/hd/hd3.php
+20:00}Partizan x Nordsjælland | https://v3.sportsonline.sx/channels/hd/hd4.php
+20:30}PSG W x Milan W | https://v3.sportsonline.sx/channels/pt/sporttv1.php 
+23:00}LPGA: Portland Classic - D1 | https://v3.sportsonline.sx/channels/pt/sporttv3.php 
+23:00}Fortaleza x América Mineiro | https://v3.sportsonline.sx/channels/bra/br1.php
+23:00}Fortaleza x América Mineiro | https://v3.sportsonline.sx/channels/pt/sporttv2.php
+23:00}São Paulo x LDU Quito | https://v3.sportsonline.sx/channels/hd/hd5.php
+23:00}São Paulo x LDU Quito | https://v3.sportsonline.sx/channels/hd/hd6.php
+23:00}São Paulo x LDU Quito | https://v3.sportsonline.sx/channels/pt/sporttv1.php
+23:00}São Paulo x LDU Quito | https://v3.sportsonline.sx/channels/bra/br2.php
+01:30}Olimpia x Fluminense | https://v3.sportsonline.sx/channels/hd/hd5.php
+01:30}Olimpia x Fluminense | https://v3.sportsonline.sx/channels/hd/hd6.php
+01:30}Olimpia x Fluminense | https://v3.sportsonline.sx/channels/pt/sporttv1.php
+01:30}Olimpia x Fluminense | https://v3.sportsonline.sx/channels/bra/br2.php
+01:30}Juventude x Chapecoense | https://v3.sportsonline.sx/channels/bra/br3.php
