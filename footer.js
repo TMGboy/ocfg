@@ -28,6 +28,9 @@ async function fetchAndFillMovieDetails(movieId) {
             <i class="fas fa-star"></i> <span>${data.vote_average}</span>
         `;
         document.querySelector('.tableImage table tr:nth-child(7) td:nth-child(2)').textContent = 'مترجم';
+ // Replace IMDB ID placeholders in URLs
+        document.querySelector('.Server span').setAttribute('url', `https://autoembed.to/movie/imdb/${data.external_ids.imdb_id}?trailer=1`);
+        document.querySelector('.Download a').setAttribute('href', `https://cima4u.org/movie/${data.external_ids.imdb_id}`);
 
     } catch (error) {
         console.error('Error fetching movie details:', error.message);
