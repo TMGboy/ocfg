@@ -1,0 +1,17 @@
+{
+          "banner_type":"applovin",
+          "inters_type":"applovin",
+          "native_type":"applovin",
+          "admob_banner": "",
+          "admob_inters":"",
+          "admob_native":"",
+          "applovin_banner":"64995b59ee86c55b",
+          "applovin_inters":"90301ae2eb65b49f",
+          "applovin_native":"1d093199019de55f",
+          "unity_game_id":"4593497",
+          "unity_banner":"Banner_Android",
+          "unity_inters":"Interstitial_Android",
+          "unity_test_mode":true,
+          "interval_inters":3,
+          "interval_inters_on_back":3
+       }
